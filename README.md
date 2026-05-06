@@ -1,7 +1,7 @@
 # Pipeline de datos
 
 ## Descripción
-Proyecto de implementación de un pipeline de datos.
+Este proyecto implementa un pipeline de datos que permite la ingesta, transformación y almacenamiento de información para su análisis
 
 ## Contenido
 
